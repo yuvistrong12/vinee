@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "hi this is raja"
+echo "========"
+whoami
+echo "this is raja"
