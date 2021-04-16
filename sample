@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "========"
 whoami
-echo "this is arjut `122"
+echo "this is arjut"
